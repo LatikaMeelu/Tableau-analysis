@@ -10,6 +10,7 @@ Tableau- Superstore data analysis. The dataset concerns the sales, profits and r
 - In quantity sold, office supplies had the maximum sales.
 - Cisco telepresence system was the most sold product.
 - Marketig activities can be directed more towards months with less sales, reducing advertising costs. As Novemeber is the busiest month for B2C sals, advertising costs are the highest in this month.
+-  Rising moving average indicates that sales are at an uptrend.
 
 ## 📊 Visualization
 
